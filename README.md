@@ -1,2 +1,2 @@
-# PF-1st-semester-project
+# Online-banking-system-in-C-language
 Banking System
