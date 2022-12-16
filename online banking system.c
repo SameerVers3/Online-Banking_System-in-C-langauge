@@ -4,6 +4,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 int i, j, choice=0;
 const char pass_w[] = "Fast1234";
