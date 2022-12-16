@@ -859,7 +859,6 @@ void check_detail() {
 	gotoxy(30, 18);
 	printf("|_______________________________________________");
 	
-	
 	gotoxy(30, 22);
 	printf("Press any key to go back to MENU:  ");
 	getch();
