@@ -1,5 +1,4 @@
 # Online-banking-system-in-C-language
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sameer-Verse&show_icons=true)
 
 Welcome to the banking system project!
 
