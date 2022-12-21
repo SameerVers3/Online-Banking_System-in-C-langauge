@@ -1,4 +1,6 @@
 # Online-banking-system-in-C-language
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+
 Welcome to the banking system project!
 
 This project is a command-line application written in C language that provides a variety of functionalities related to managing bank accounts. Some of the features it includes are:
